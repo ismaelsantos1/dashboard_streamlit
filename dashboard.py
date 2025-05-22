@@ -2,9 +2,7 @@ import pandas as pd
 import requests
 import streamlit as st
 import numpy as np
-from datetime import datetime, timedelta, date
 import plotly.express as px
-import time
 
 
 #Transformar e ativando wide-mode por padrão
