@@ -3,7 +3,7 @@ import requests
 import streamlit as st
 import numpy as np
 import plotly.express as px
-
+import time
 
 #Transformar e ativando wide-mode por padrão
 st.set_page_config(layout= 'wide')
